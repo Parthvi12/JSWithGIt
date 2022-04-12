@@ -124,11 +124,36 @@
               "chartName": "Sales Report",
               "xAxisName": "Product Line",
               "chartType": "COLUMN_CHART"
+            },
+            {
+              "backgroundColor": "#F86A2B",
+              "widgetName": "AudioRecorder1",
+              "rightColumn": 22,
+              "displayName": "Audio Recorder",
+              "iconSVG": "/static/media/icon.3cb03cd8.svg",
+              "widgetId": "7ym2rciy1y",
+              "topRow": 9,
+              "bottomRow": 17,
+              "parentRowSpace": 10,
+              "isVisible": true,
+              "type": "AUDIO_RECORDER_WIDGET",
+              "version": 1,
+              "hideCard": false,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 6,
+              "iconColor": "white",
+              "isDisabled": false,
+              "key": "t228fsu3y4"
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
+          "AudioRecorder1",
           "Button1",
           "Chart1",
           "MainContainer"
